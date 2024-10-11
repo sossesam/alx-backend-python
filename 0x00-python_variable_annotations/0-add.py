@@ -2,4 +2,5 @@
 
 
 def add(a: int, b: int) -> int:
-    return a + b
+    ans: int = a + b
+    return (ans)
