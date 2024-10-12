@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import math
 """
-Description: A function that coverts a float to an int
+floor: A function that coverts a float to an int
 
 parameters- It takes a float as an argument
 
