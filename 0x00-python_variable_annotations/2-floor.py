@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 import math
+"""
+Description: A function that coverts a float to an int
+
+parameters- It takes a float as an argument
+
+return- returns a floored integer
+"""
 
 
 def floor(n: float) -> int:
