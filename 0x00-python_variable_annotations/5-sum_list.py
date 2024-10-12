@@ -12,6 +12,7 @@ Examples-
 
 """
 
+
 def sum_list(input_list: List[float]) -> float:
     # returns the sum of all argument in the list
 
@@ -21,6 +22,3 @@ def sum_list(input_list: List[float]) -> float:
         n = n + x
 
     return n
-
-    
-
