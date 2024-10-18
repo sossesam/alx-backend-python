@@ -1,15 +1,6 @@
 #!/usr/bin/env python3
-
 """
-Description
-
-Parameters-
-
-Return-
-
-Examples-
-
-
+funtion for asyncio
 """
 
 

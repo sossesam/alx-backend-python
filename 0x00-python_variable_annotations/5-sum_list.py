@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
+"""
+funtion for asyncio
+"""
 from typing import List
-"""
-Function:
-
-Parameters-
-
-Return-
-
-Examples-
-
-
-"""
 
 
 def sum_list(input_list: List[float]) -> float:

@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
+"""
+funtion for asyncio
+"""
 from typing import Iterable, Sequence, List, Tuple
-'''
-Function: element_length Parameters- lst Return-List of Tuple
-
-Examples-
-'''
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:

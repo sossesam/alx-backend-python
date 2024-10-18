@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
+"""
+funtion for asyncio
+"""
 from typing import Tuple, List
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
+    """
+    funtion for asyncio
+    """
     zoomed_in: Tuple = (
         item for item in lst
         for i in range(factor)
