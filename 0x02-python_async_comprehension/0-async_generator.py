@@ -4,9 +4,9 @@
 """
 import asyncio
 import random
-from typing import async_generator
+from typing import AsyncIterable
 
-async def async_generator() -> async_generator[float]:
+async def async_generator() -> AsyncIterable[float]:
     """
     0. Async Generator
     """
